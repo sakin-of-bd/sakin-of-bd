@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakin-of-bd" alt="sakin-of-bd" /></a> </p>
 
-- 🌱 I’m currently learning **DSA,JAVA,PYTHON,JAVASCRIPT**
+- 🌱 I’m currently learning **DSA, JAVA, PYTHON, JAVASCRIPT**
 
 - 📝 I regularly write articles on [https://codeforces.com/blog/sakin_of_bd](https://codeforces.com/blog/sakin_of_bd)
 
 - 📫 How to reach me **arsakin01@gmail.com**
 
-- ⚡ Fun fact **T think I am a mad programmer. Because I become unhappy in whole day when I got WA on a Problem's code.**
+- ⚡ Fun fact **I think I am a mad programmer. Because I become unhappy in whole day when I got WA on a Problem's code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
