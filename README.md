@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://codeforces.com/blog/sakin_of_bd](https://codeforces.com/blog/sakin_of_bd)
 
-- 📫 How to reach me **arsakin01@gmail.com**
+- 📫 How to reach me **abirrahman.sakin@gmail.com**
 
 - ⚡ Fun fact **I think I am a mad programmer. Because I become unhappy in whole day when I got WA on a Problem's code.**
 
